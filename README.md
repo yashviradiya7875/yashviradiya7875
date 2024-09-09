@@ -3,7 +3,7 @@
 
 I'm a passionate full-stack developer from Gujarat, India 🇮🇳, specializing in building responsive web applications and dynamic user experiences. With hands-on experience in both frontend and backend development, I transform ideas into scalable solutions.
 
-- 💻 **Tech Stack**: JavaScript (React, Node.js), PHP (Laravel), HTML/CSS, MySQL, MongoDB
+- 💻 **Tech Stack**: JavaScript (React, Node.js), PHP (Laravel), HTML/CSS, MySQL, MongoDB, Python
 - 🚀 **What I Do**: 
    - Craft efficient and scalable backend architectures
    - Develop intuitive and responsive frontend interfaces
