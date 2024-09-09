@@ -15,7 +15,8 @@ I'm a passionate full-stack developer from Gujarat, India 🇮🇳, specializing
 - 🔭 Currently working on: [Portfolio Website](https://your-portfolio-link.com) 
 - 🌱 Exploring: Next.js, TypeScript
 - 👨‍💻 Open to collaborating on exciting projects
-- 📫 Reach out to me: [yashviradiya02@gmail.com] | <a href="https://www.linkedin.com/in/yash-viradiya-393552279/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" </img> </a>| [Instagram] 
+- 📫 Reach out to me: [yashviradiya02@gmail.com] | <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-viradiya-393552279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-viradiya-393552279/" height="30" width="40" /></a>
+</p>| [Instagram] 
 
 Let’s connect and create something awesome! 🚀
 
