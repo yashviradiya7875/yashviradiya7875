@@ -15,9 +15,9 @@ I'm a passionate full-stack developer from Gujarat, India 🇮🇳, specializing
 - 🔭 Currently working on: [Portfolio Website](https://your-portfolio-link.com) 
 - 🌱 Exploring: Next.js, TypeScript
 - 👨‍💻 Open to collaborating on exciting projects
-- 📫 Reach out to me: [yashviradiya02@gmail.com] | <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-viradiya-393552279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-viradiya-393552279/" height="30" width="30" /></a> | <a href="https://instagram.com/https://www.instagram.com/yash__patel_7875/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash__patel_7875/" height="30" width="30" /></a>
+- 📫 Reach out to me: [yashviradiya02@gmail.com] | <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-viradiya-393552279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-viradiya-393552279/" height="10" width="10" /></a> | <a href="https://instagram.com/https://www.instagram.com/yash__patel_7875/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash__patel_7875/" height="10" width="10" /></a>
 </p>
-</p>| [Instagram] 
+</p>
 
 Let’s connect and create something awesome! 🚀
 
