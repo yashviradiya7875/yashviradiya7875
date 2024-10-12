@@ -12,7 +12,7 @@ I'm a passionate full-stack developer from Gujarat, India 🇮🇳, specializing
 
 ### Let's Build Something Great Together!
 
-- 🔭 Currently working on: [Portfolio Website](https://github.com/yashviradiya7875/E-commerce) 
+- 🔭 Currently working on: [Portfolio Website](https://www.yashviradiya.com/) 
 - 🌱 Exploring: Next.js, TypeScript
 - 👨‍💻 Open to collaborating on exciting projects
 - 📫 Reach out to me: [yashviradiya02@gmail.com] | <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-viradiya-393552279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-viradiya-393552279/" height="18" width="18" /></a> | <a href="https://instagram.com/https://www.instagram.com/yash__patel_7875/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash__patel_7875/" height="18" width="18" /></a>
